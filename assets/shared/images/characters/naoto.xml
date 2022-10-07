@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="naoto.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- Reescalado Por Nickobelit -->
+	<SubTexture name="naoto alt down0000" x="640" y="414.5" width="316" height="416" frameX="-0.5" frameY="-8" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0001" x="640" y="414.5" width="316" height="416" frameX="-0.5" frameY="-8" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0002" x="2999.5" y="414" width="318" height="418" frameX="0" frameY="-4.5" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0003" x="2999.5" y="414" width="318" height="418" frameX="0" frameY="-4.5" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0004" x="0" y="408.5" width="320" height="421.5" frameX="0" frameY="0" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0005" x="0" y="408.5" width="320" height="421.5" frameX="0" frameY="0" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0006" x="0" y="408.5" width="320" height="421.5" frameX="0" frameY="0" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt down0007" x="0" y="408.5" width="320" height="421.5" frameX="0" frameY="0" frameWidth="640" frameHeight="848"/>
+	<SubTexture name="naoto alt idle0000" x="1523.5" y="1246.5" width="290" height="410.5" frameX="0" frameY="-3" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0001" x="1523.5" y="1246.5" width="290" height="410.5" frameX="0" frameY="-3" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0002" x="3517.5" y="1248" width="289.5" height="408.5" frameX="-0.5" frameY="-4" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0003" x="3517.5" y="1248" width="289.5" height="408.5" frameX="-0.5" frameY="-4" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0004" x="3220" y="1250.5" width="289.5" height="408" frameX="-1.5" frameY="-3" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0005" x="3220" y="1250.5" width="289.5" height="408" frameX="-1.5" frameY="-3" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0006" x="626" y="1247.5" width="290" height="409.5" frameX="-1.5" frameY="-0.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0007" x="626" y="1247.5" width="290" height="409.5" frameX="-1.5" frameY="-0.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0008" x="1833" y="1239" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0009" x="1833" y="1239" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0010" x="0" y="1242.5" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0011" x="0" y="1242.5" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0012" x="1833" y="1239" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0013" x="1833" y="1239" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0014" x="0" y="1242.5" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt idle0015" x="0" y="1242.5" width="290.5" height="410" frameX="-1" frameY="0" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto alt left0000" x="0" y="0" width="413" height="407.5" frameX="0" frameY="-4" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0001" x="0" y="0" width="413" height="407.5" frameX="0" frameY="-4" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0002" x="1208" y="0" width="389.5" height="412" frameX="-3" frameY="0" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0003" x="1208" y="0" width="389.5" height="412" frameX="-3" frameY="0" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0004" x="815" y="0" width="392" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0005" x="815" y="0" width="392" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0006" x="815" y="0" width="392" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt left0007" x="815" y="0" width="392" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="826" frameHeight="828"/>
+	<SubTexture name="naoto alt right0000" x="291.5" y="1248.5" width="285" height="414.5" frameX="-10.5" frameY="-6" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0001" x="291.5" y="1248.5" width="285" height="414.5" frameX="-10.5" frameY="-6" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0002" x="2458" y="844.5" width="292" height="415" frameX="-3" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0003" x="2458" y="844.5" width="292" height="415" frameX="-3" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0004" x="933" y="835.5" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0005" x="933" y="835.5" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0006" x="933" y="835.5" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt right0007" x="933" y="835.5" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto alt up0000" x="2610.5" y="422" width="308.5" height="421.5" frameX="-3.5" frameY="0" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0001" x="2610.5" y="422" width="308.5" height="421.5" frameX="-3.5" frameY="0" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0002" x="2676" y="0" width="322.5" height="421" frameX="-2.5" frameY="-3" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0003" x="2676" y="0" width="322.5" height="421" frameX="-2.5" frameY="-3" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0004" x="2999.5" y="0" width="327" height="413" frameX="0" frameY="-12.5" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0005" x="2999.5" y="0" width="327" height="413" frameX="0" frameY="-12.5" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0006" x="2999.5" y="0" width="327" height="413" frameX="0" frameY="-12.5" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto alt up0007" x="2999.5" y="0" width="327" height="413" frameX="0" frameY="-12.5" frameWidth="654" frameHeight="851"/>
+	<SubTexture name="naoto boo0000" x="3636" y="414" width="316" height="416" frameX="0" frameY="-51.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0001" x="3636" y="414" width="316" height="416" frameX="0" frameY="-51.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0002" x="1208" y="413" width="316.5" height="421.5" frameX="-4" frameY="0" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0003" x="1208" y="413" width="316.5" height="421.5" frameX="-4" frameY="0" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0004" x="2345.5" y="0" width="329.5" height="421" frameX="-3" frameY="-3" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0005" x="2345.5" y="0" width="329.5" height="421" frameX="-3" frameY="-3" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0006" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0007" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0008" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0009" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0010" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0011" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0012" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0013" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0014" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0015" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0016" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0017" x="3327.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0018" x="3655.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0019" x="3655.5" y="0" width="327" height="413" frameX="-0.5" frameY="-12.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0020" x="1974" y="413" width="324.5" height="411" frameX="-0.5" frameY="-13.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0021" x="1974" y="413" width="324.5" height="411" frameX="-0.5" frameY="-13.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0022" x="0" y="831" width="315.5" height="410.5" frameX="-1.5" frameY="-17" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0023" x="0" y="831" width="315.5" height="410.5" frameX="-1.5" frameY="-17" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0024" x="2157" y="844" width="300" height="410.5" frameX="-3" frameY="-22.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0025" x="2157" y="844" width="300" height="410.5" frameX="-3" frameY="-22.5" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="naoto boo0026" x="3517.5" y="1248" width="289.5" height="408.5" frameX="-3.5" frameY="-31.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0027" x="3517.5" y="1248" width="289.5" height="408.5" frameX="-3.5" frameY="-31.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0028" x="3220" y="1250.5" width="289.5" height="408" frameX="-4.5" frameY="-30.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0029" x="3220" y="1250.5" width="289.5" height="408" frameX="-4.5" frameY="-30.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0030" x="626" y="1247.5" width="290" height="409.5" frameX="-4.5" frameY="-28" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0031" x="626" y="1247.5" width="290" height="409.5" frameX="-4.5" frameY="-28" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0032" x="1833" y="1239" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0033" x="1833" y="1239" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0034" x="0" y="1242.5" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0035" x="0" y="1242.5" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0036" x="1833" y="1239" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0037" x="1833" y="1239" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0038" x="0" y="1242.5" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto boo0039" x="0" y="1242.5" width="290.5" height="410" frameX="-4" frameY="-27.5" frameWidth="583" frameHeight="827"/>
+	<SubTexture name="naoto down0000" x="1525.5" y="414.5" width="315.5" height="416" frameX="-0.5" frameY="-8" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0001" x="1525.5" y="414.5" width="315.5" height="416" frameX="-0.5" frameY="-8" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0002" x="3318.5" y="414" width="316.5" height="418" frameX="0" frameY="-4.5" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0003" x="3318.5" y="414" width="316.5" height="418" frameX="0" frameY="-4.5" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0004" x="321" y="408.5" width="318" height="421.5" frameX="0" frameY="0" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0005" x="321" y="408.5" width="318" height="421.5" frameX="0" frameY="0" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0006" x="321" y="408.5" width="318" height="421.5" frameX="0" frameY="0" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto down0007" x="321" y="408.5" width="318" height="421.5" frameX="0" frameY="0" frameWidth="636" frameHeight="848"/>
+	<SubTexture name="naoto idle0000" x="626" y="831.5" width="306" height="415" frameX="0" frameY="-3" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0001" x="626" y="831.5" width="306" height="415" frameX="0" frameY="-3" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0002" x="1525.5" y="831.5" width="306.5" height="414" frameX="-1.5" frameY="-3" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0003" x="1525.5" y="831.5" width="306.5" height="414" frameX="-1.5" frameY="-3" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0004" x="3636" y="831" width="308" height="416" frameX="-1.5" frameY="-0.5" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0005" x="3636" y="831" width="308" height="416" frameX="-1.5" frameY="-0.5" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0006" x="316.5" y="831" width="308.5" height="416.5" frameX="-1" frameY="0" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto idle0007" x="316.5" y="831" width="308.5" height="416.5" frameX="-1" frameY="0" frameWidth="619" frameHeight="836"/>
+	<SubTexture name="naoto left0000" x="414" y="0" width="400" height="407.5" frameX="0" frameY="-4" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0001" x="414" y="0" width="400" height="407.5" frameX="0" frameY="-4" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0002" x="1974" y="0" width="370.5" height="412" frameX="-3" frameY="0" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0003" x="1974" y="0" width="370.5" height="412" frameX="-3" frameY="0" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0004" x="1598.5" y="0" width="374.5" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0005" x="1598.5" y="0" width="374.5" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0006" x="1598.5" y="0" width="374.5" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto left0007" x="1598.5" y="0" width="374.5" height="413.5" frameX="-2.5" frameY="-0.5" frameWidth="800" frameHeight="828"/>
+	<SubTexture name="naoto right0000" x="3808" y="1248" width="285" height="414.5" frameX="-10.5" frameY="-6" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0001" x="3808" y="1248" width="285" height="414.5" frameX="-10.5" frameY="-6" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0002" x="1230.5" y="835.5" width="292" height="415" frameX="-3" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0003" x="1230.5" y="835.5" width="292" height="415" frameX="-3" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0004" x="3220" y="833" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0005" x="3220" y="833" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0006" x="3220" y="833" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto right0007" x="3220" y="833" width="296.5" height="416.5" frameX="0" frameY="0" frameWidth="593" frameHeight="841"/>
+	<SubTexture name="naoto up0000" x="2920" y="833" width="299" height="421.5" frameX="-3.5" frameY="0" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0001" x="2920" y="833" width="299" height="421.5" frameX="-3.5" frameY="0" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0002" x="2299.5" y="422" width="310" height="421" frameX="-2.5" frameY="-3" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0003" x="2299.5" y="422" width="310" height="421" frameX="-2.5" frameY="-3" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0004" x="1842" y="825" width="314" height="413" frameX="0" frameY="-12.5" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0005" x="1842" y="825" width="314" height="413" frameX="0" frameY="-12.5" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0006" x="1842" y="825" width="314" height="413" frameX="0" frameY="-12.5" frameWidth="628" frameHeight="851"/>
+	<SubTexture name="naoto up0007" x="1842" y="825" width="314" height="413" frameX="0" frameY="-12.5" frameWidth="628" frameHeight="851"/>
+</TextureAtlas>
